@@ -1,5 +1,5 @@
 public class Data {
-    public static Student []list=new Student[51];
+    public static Student []list=new Student[2];
     static
     {
 		//This is dummy dataset
